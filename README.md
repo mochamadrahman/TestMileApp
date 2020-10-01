@@ -85,10 +85,10 @@ Silahkan duplikat/clone dari repository ini, selanjut nya bisa melakukan testing
 
    ### Melakukan test dari Katalon Studio Tools (setelah menduplikasi repsitory) dengan langkah seperti berikut ini :
    
-      - Menjalankan test dari file **UI Test** di bawah folder Test Suites, yang berisi kumpulan skenario test yang berhubungan dengan UI Test.
-      - Menjalankan test dari file **API Test** di bawah folder Test Suites, yang berisi skenario test yang berhubungan dengan API Test.
-      - Menjalankan test secara sendiri sendiri dari file test case yang berada di folder Test Cases pada path utama dari project.
-      - Menjalankan test dengan command line dengan meng klik tombol **Build CMD** dari menu utama dan ikuti langkah langkah yang tampil. Setelah muncul command line, duplikat command line tersebut. Beralih ke cmd dan masuk ke path dimana Katalon Studio terinstall, lalu paste command line tersebut dan tekan Enter. Test suite akan di jalankan dengan tampil nya log execution dari Test suite bersangkutan.  
+   - Menjalankan test dari file **UI Test** di bawah folder Test Suites, yang berisi kumpulan skenario test yang berhubungan dengan UI Test.
+   - Menjalankan test dari file **API Test** di bawah folder Test Suites, yang berisi skenario test yang berhubungan dengan API Test.
+   - Menjalankan test secara sendiri sendiri dari file test case yang berada di folder Test Cases pada path utama dari project.
+   - Menjalankan test dengan command line dengan meng klik tombol **Build CMD** dari menu utama dan ikuti langkah langkah yang tampil. Setelah muncul command line, duplikat command line tersebut. Beralih ke cmd dan masuk ke path dimana Katalon Studio terinstall, lalu paste command line tersebut dan tekan Enter. Test suite akan di jalankan dengan tampil nya log execution dari Test suite bersangkutan.  
     
 
         
